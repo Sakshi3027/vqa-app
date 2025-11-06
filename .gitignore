@@ -27,3 +27,4 @@ Thumbs.db
 # Model files (optional - comment out if you want to include them)
 *.bin
 *.safetensors
+screenshot.png
