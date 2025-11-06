@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Gradio
+gradio_cached_examples/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (optional - comment out if you want to include them)
+*.bin
+*.safetensors
